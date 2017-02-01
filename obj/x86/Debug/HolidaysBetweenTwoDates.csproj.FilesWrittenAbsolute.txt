@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/HolidaysBetweenTwoDates/HolidaysBetweenTwoDates/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/HolidaysBetweenTwoDates/HolidaysBetweenTwoDates/bin/Debug/HolidaysBetweenTwoDates.exe.mdb
+/Users/TaHuC/Projects/HolidaysBetweenTwoDates/HolidaysBetweenTwoDates/bin/Debug/HolidaysBetweenTwoDates.exe
+/Users/TaHuC/Projects/HolidaysBetweenTwoDates/HolidaysBetweenTwoDates/obj/x86/Debug/HolidaysBetweenTwoDates.exe
+/Users/TaHuC/Projects/HolidaysBetweenTwoDates/HolidaysBetweenTwoDates/obj/x86/Debug/HolidaysBetweenTwoDates.exe.mdb
